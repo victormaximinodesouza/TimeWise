@@ -65,15 +65,24 @@ python app.py
 4️⃣ Acessar no navegador
 http://localhost:5000
 
-🤝 Equipe de Desenvolvimento
-Nome	RA	Contato
-Jessé Anthony Leonel da Silva Salviano	1362319106	—
-Lacielton Felix Brito	1362520591	—
-Lucas Vinícius de Souza Soares	1362316926	—
-Luan Fonseca de Lima	1362318141	—
-Maria Waleska Otavio dos Santos Silva	1362312498	—
-Victor Maximiano de Souza	1362415094	👔 LinkedIn
- • 🐙 GitHub
+Membro 1
+Nome	RA
+Jessé Anthony Leonel da Silva Salviano	| 1362319106
+Membro 2
+Nome	RA
+Lacielton Felix Brito	| 1362520591
+Membro 3
+Nome	RA
+Lucas Vinícius de Souza Soares	| 1362316926
+Membro 4
+Nome	RA
+Luan Fonseca de Lima	| 1362318141
+Membro 5
+Nome	RA
+Maria Waleska Otavio dos Santos Silva	| 1362312498
+Membro 6
+Nome	RA
+Victor Maximiano de Souza	| 1362415094
 
 Orientadores:
 Antunes Vila Nova Neto
