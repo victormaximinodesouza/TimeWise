@@ -65,24 +65,30 @@ python app.py
 4️⃣ Acessar no navegador
 http://localhost:5000
 
-<br> Membro 1
-Nome	RA
-Jessé Anthony Leonel da Silva Salviano	| 1362319106  </br>
-<br> Membro 2
-Nome	RA
-Lacielton Felix Brito	| 1362520591  </br>
-Membro 3
-Nome	RA
-Lucas Vinícius de Souza Soares	| 1362316926
-Membro 4
-Nome	RA
-Luan Fonseca de Lima	| 1362318141
-Membro 5
-Nome	RA
-Maria Waleska Otavio dos Santos Silva	| 1362312498
-Membro 6
-Nome	RA
-Victor Maximiano de Souza	| 1362415094
+<b>Membro 1</b><br>
+Nome: Jessé Anthony Leonel da Silva Salviano<br>
+RA: 1362319106<br><br>
+
+<b>Membro 2</b><br>
+Nome: Lacielton Felix Brito<br>
+RA: 1362520591<br><br>
+
+<b>Membro 3</b><br>
+Nome: Lucas Vinícius de Souza Soares<br>
+RA: 1362316926<br><br>
+
+<b>Membro 4</b><br>
+Nome: Luan Fonseca de Lima<br>
+RA: 1362318141<br><br>
+
+<b>Membro 5</b><br>
+Nome: Maria Waleska Otavio dos Santos Silva<br>
+RA: 1362312498<br><br>
+
+<b>Membro 6</b><br>
+Nome: Victor Maximiano de Souza<br>
+RA: 1362415094<br><br>
+
 
 Orientadores:
 Antunes Vila Nova Neto
