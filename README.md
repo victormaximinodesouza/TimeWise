@@ -67,7 +67,7 @@ http://localhost:5000
 
 Membro 1
 Nome	RA
-Jessé Anthony Leonel da Silva Salviano	| 1362319106
+Jessé Anthony Leonel da Silva Salviano	| 1362319106  <br></br>
 Membro 2
 Nome	RA
 Lacielton Felix Brito	| 1362520591
